@@ -18,8 +18,9 @@ Tap to play & select:
 
 3) Download the [Expo Client](https://expo.io/client) and scan the QR code to get started.
 
+------------------
 
-Start the App and clear cache:
+## Run the App & clear cache:
 ```
 npm run start -c
 
@@ -49,7 +50,7 @@ yarn dev
 --------------------
 
 
-### create packages with expo
+### create packages with expo-cli
 
 
 ``` 
