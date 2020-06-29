@@ -6,7 +6,7 @@ Food Point for Snack - React Native App
 [DEMO at Snack.expo.io](https://snack.expo.io/@webdevelop/food-points---oslo-(norway))
 
 
-[DEMO at Appetize.io](https://appetize.io/app/h3beptqp3eh0cmumn60q7ve5br?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
+[DEMO at Appetize.io](https://appetize.io/app/k4phnu6fhufd1fmtev5p19wc8c?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
 
 ------------------
 
